@@ -1,3 +1,5 @@
+package Introductory_Problems;
+
 //package org.dsaPrep.Cses.Introductory;
  
 import java.util.Scanner;

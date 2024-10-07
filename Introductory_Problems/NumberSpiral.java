@@ -1,3 +1,5 @@
+package Introductory_Problems;
+
 //package org.dsaPrep.Cses.Introductory;
 //https://www.youtube.com/watch?v=HQmiQ6Sd_OE
 import java.io.*;
